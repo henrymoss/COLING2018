@@ -13,4 +13,4 @@ For IMDB https://github.com/jalbertbowden/large-movie-reviews-dataset/tree/maste
 
 For Reuters and Brown corpora use Python's NLTK package (see relevant script)
 
-The set-up for the LSTM is significantly more complicated and so is stored at https://github.com/apmoore1/Bella (including instructions for obtaining data and word embeddings).
+The set-up for the LSTM is significantly more complicated and so extra information for running that experiment is included in  non-interactive/LSTM folder (including instructions for obtaining data).
