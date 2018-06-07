@@ -12,6 +12,11 @@ and
 
 https://github.com/bluemonk482/tdparse/tree/master/data/lidong/testing
 
+
+You also need to set the config.yaml to point to the pre-trained word-embeddings contained in sswe.tsv, stored at https://github.com/apmoore1/Bella/tree/master/data/word_vectors/vo_zhang
+
+
+
 The code to run the simulations is contained in the simulation_scripts folder.
 
 Note that Figure 4C is the combination of multiple runs of Figure_4C.py with different random seed and numbers of folds as arguments.
