@@ -1,0 +1,13 @@
+####
+#### Data Paths
+####
+dong_twit_train_data: ./data/dong_training.txt
+dong_twit_test_data: ./data/dong_test.txt
+#
+# Word vector paths
+#
+word_vector_folder: ./data/word_vectors
+
+sswe_files:
+  vo_zhang: ./data/word_vectors/vo_zhang/sswe.tsv
+
