@@ -7,7 +7,7 @@ The non-interactive scripts consist of the repeated fitting of the machine learn
 
 The interactive scripts are jupyter notebooks for Python3, which load in pre-computed data (the saved output from the non-interactive scripts). They allow the creation of all the plots and tables that rely on choices of K and J (allowing further experimentation at very low further computational cost). Figure 1 has no interaction elements and so is included as a non-interactive script.
 
-Note that the non-interactive scripts require the download of the data. 
+Note that the non-interactive scripts require the follwing data downloads. 
 
 For IMDB https://github.com/jalbertbowden/large-movie-reviews-dataset/tree/master/acl-imdb-v1
 
