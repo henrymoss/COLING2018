@@ -1,6 +1,8 @@
 # COLING2018
 Accompanying code for "Using J-K-fold Cross Validation to Reduce Variance When Tuning NLP Models" from COLING 2018
 
+https://arxiv.org/abs/1806.07139
+
 Due to the heavy computational nature of this paper the code is split into interactive and non-interactive scripts (Python 3).
 
 The non-interactive scripts consist of the repeated fitting of the machine learning models on the various NLP tasks. To collect the results from 1,000  different random partitionings we made use of a computing cluster resource. These scripts will not run in a reasonable time on a standard machine (without reducing the number of random partitionings). However, we include them here for completeness and reproducibility. We do however include the output from running these scripts for use with the interactive scripts. 
